@@ -1,0 +1,9 @@
+@import 'custom';
+@import "~bootstrap/scss/bootstrap";
+
+// White text!
+.card-title, .card-header, .body, .card, .form-control, .form-control:focus, .btn-primary, .btn-primary:hover, .btn-primary:focus {
+    color: $white;
+}
+
+
