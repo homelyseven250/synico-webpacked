@@ -17,7 +17,7 @@
     "object-hash": "^2.2.0",
     "postcss-loader": "^6.2.0",
     "sass-loader": "^12.2.0",
-    "socket.io-client": "^4.3.2",
+    "socket.io-client": "^4.6.1",
     "webpack": "github:webpack/webpack",
     "webpack-cli": "^4.9.1"
   },
